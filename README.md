@@ -1,2 +1,20 @@
-# Analytics-Project
-Conducted a study at BBK exports private limited to analyze the impact of predictive analytics on business performance after the COVID 19 pandemic.  Collected and analyzed data from 100 respondence using questionnaires and percentage analysis to understand the role of predictive analytics in decision-making, risk management.
+ANALYTICS PROJECT
+
+Project Overview
+
+This project analyzes the impact of predictive analytics on company performance after the COVID 19 pandemic, focusing on BBK exports private limited, Kilambi.
+
+Methodology
+
+Questionnaire, data collection, and percentage analysis.
+
+Focus Areas
+
+Decision-making, risk management, operational efficiency, and customer satisfaction.
+
+Author
+
+Vijayalakshmi Rasathi T
+
+
+
